@@ -1,1 +1,1 @@
-
+let yourArray = ["abc", 123, true];
