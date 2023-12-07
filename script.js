@@ -1,1 +1,1 @@
-let yourArray = {"one", 1, true, 23, "rakesh"};
+let yourArray = {"one", 1, true, 23, "rakesh"}
